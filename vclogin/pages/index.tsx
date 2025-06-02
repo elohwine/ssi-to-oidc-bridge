@@ -30,7 +30,7 @@ export default function Home() {
 
       <div className="text-sm pt-2">
         <a href="https://wwwmatthes.in.tum.de/pages/t5ma0jrv6q7k/sebis-Public-Website-Home">
-          Developed by sebis @ TUM
+          Developed by idenEx @ eloh
         </a>
       </div>
     </main>

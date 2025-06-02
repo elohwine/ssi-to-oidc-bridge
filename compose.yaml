@@ -37,6 +37,9 @@ services:
       - LOG_FORMAT=json
       - LOG_LEAK_SENSITIVE_VALUES=false
       - OAUTH2_EXPOSE_INTERNAL_ERRORS=1
+      - LOG_LEVEL=debug
+      - LOG_FORMAT=json
+      - LOG_LEAK_SENSITIVE_VALUES=true
       # - TRACING_PROVIDER=jaeger
       # - TRACING_PROVIDERS_JAEGER_SAMPLING_SERVER_URL=http://jaeger:5778/sampling
       # - TRACING_PROVIDERS_JAEGER_LOCAL_AGENT_ADDRESS=jaeger:6831

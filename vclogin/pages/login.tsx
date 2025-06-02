@@ -46,13 +46,13 @@ export default function Login(props: any) {
         <div className="flex flex-col place-items-center overflow-hidden bg-gxblue pt-8 px-8 rounded-t-3xl min-w-max w-full">
           <div>
             <p className="text-white font-semibold">
-              You are signing in via the
+              You are signing in via
             </p>
             <h1
               id="gx-text"
               className="2xl:text-6xl lg:text-5xl text-4xl font-bold pb-4 text-white"
             >
-              SSI-to-OIDC Bridge
+              Credentia
             </h1>
           </div>
         </div>
@@ -89,7 +89,7 @@ export default function Login(props: any) {
         </div>
         <div className="text-sm pt-2">
           <a href="https://wwwmatthes.in.tum.de/pages/t5ma0jrv6q7k/sebis-Public-Website-Home">
-            Developed by sebis @ TUM
+            Developed by idenEx @ eloh
           </a>
         </div>
       </div>
